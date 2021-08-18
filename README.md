@@ -3,7 +3,7 @@ Un blog increíble para el curso de Git y Github en Platzi
 > El curso de Git y GitHub de Platzi es lo mejor 
 > - niñita :3 
 
-##En este curso vemos de todo:
+## En este curso vemos de todo:
 * Todos los comandos de Git 
 * El flujo de trabajo en GitHub
 * El verdaderio amor pos las buenas prácticas
