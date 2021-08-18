@@ -47,10 +47,17 @@ body
     font-size: 26px
 }
 
+
 #post
 {
     background-color: white;
     padding: 1em;
+}
+
+#image
+{
+    width: 50%;
+    margin-left: 40%;
 }
 
 #footer
